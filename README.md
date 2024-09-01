@@ -1,4 +1,9 @@
 ## Hi there 👋
+NDValla-GWU 
+
+Artificial Intelligence and Machine LEearning D.Eng candidate 
+George Washington University 2026
+
 
 <!--
 **NDValla-GWU/NDValla-GWU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
